@@ -1,2 +1,2 @@
 # Color-Picker
-Pick a Color from an Image
+Pick a color from an Image
